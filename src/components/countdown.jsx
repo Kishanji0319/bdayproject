@@ -89,7 +89,7 @@ export default function Countdown({ targetDate, onCountdownEnd }) {
         <p className="text-lg text-purple-700 mb-4">
           Just a little more... A small gift for my KUCHU PUCHU❤️💋<br></br>
 
-          Pls open me again at 12am..
+          Pls open me again at 12am😚..
         </p>
 
         <div className="flex justify-center space-x-2">
